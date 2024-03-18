@@ -1,0 +1,316 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    /*biz ul dumlon optashdi   */
+}
+
+/* brinch qsmi 1  nav qsmi*/
+nav {
+    width: 100%;
+    height: 175px;
+    display: flex;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: black;
+}
+
+.n li {
+    display: flex;
+    text-align: center;
+    margin: 10px 15px;
+}
+
+.li7 .k li {
+    margin: 10px 70px 0;
+    border: solid 3px;
+    border-radius: 5px;
+}
+
+.na img {
+    width: 50px;
+    height: 50px;
+    display: flex;
+    margin: 100px;
+
+}
+
+.li1 li {
+    align-items: center;
+    justify-content: center;
+    /* margin-right:100px ;orsin surdi */
+
+}
+
+.new {
+    transition: 2s;
+}
+
+.new:hover {
+    color: rgb(255, 255, 0);
+}
+
+.new1 {
+    transition: 2s;
+}
+
+.new1:hover {
+    color: rgb(255, 0, 0);
+}
+
+.na img {
+    margin: 5px;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    border-radius: 20px;
+}
+
+.ddd {
+    display: flex;
+    margin: 0 0 220px;
+    margin-left: 550px;
+}
+
+.ddd1 {
+    display: flex;
+
+}
+
+.li7 .new li {
+    display: flex;
+    justify-content: space-between;
+}
+
+.li1 li {
+    margin: 15px;
+    flex-direction: column-reverse;
+}
+
+/* 2 etpga utish */
+.min {
+    width: 1500px;
+    display: flex;
+}
+
+/* html qare esin chqsa */
+.min1 {
+    width: 100;
+    height: 700px;
+    background: url(https://media.cnn.com/api/v1/images/stellar/prod/221208114519-boeing-nasa-sls-rocket-history.jpg?c=original) no-repeat center/cover;
+}
+
+.min p {
+    width: 300px;
+    font-size: 25px;
+    margin: 10px;
+}
+
+.uzun1 p {
+    width: 1050px;
+    height: 2px;
+    margin: 0px 200px;
+
+    background-color: rgb(0, 0, 0);
+}
+
+.aa {
+    width: 100px;
+}
+
+.aa:hover {
+    transition: 3s;
+    color: rgb(0, 0, 255);
+}
+
+/* 3 etbi */
+.box1 p {
+    width: 500px;
+    margin: 20px;
+    font-size: 70px;
+    color: rgb(255, 255, 255);
+}
+
+.miny {
+    width: 600px;
+    color: aliceblue;
+    font-size: 15px;
+
+}
+
+.miny .oo {
+    margin: 15px;
+}
+
+.uzun1 img {
+    margin: 5px;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    border-radius: 100px;
+}
+
+.miny1 {
+    width: 90%;
+    height: 2px;
+    background-color: black;
+}
+
+.la a:hover {
+    font-size: 15px;
+    transition: 10s;
+    color: blue;
+    display: flex;
+    align-items: start;
+    margin: 0 0 0 80px;
+}
+
+.la1 a {
+    font-size: 10px;
+    width: 430px;
+    display: flex;
+    text-align: center;
+    margin: 0 800px 0 700px;
+}
+
+.box1 {
+    display: flex;
+    padding: 250px;
+    justify-content: start;
+    align-items: start;
+}
+
+.nasa1 p {
+    margin-left: -250px;
+}
+
+.miny .oo {
+    display: flex;
+}
+
+.oo Q {
+    width: 100px;
+    height: 50px;
+    background-color: aliceblue;
+}
+
+.qn {
+    margin: 10px 100px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    font-size: 50px;
+}
+
+.box2 {
+    color: aliceblue;
+    width: 600px;
+    display: flex;
+    justify-items: flex-start;
+    align-items: end;
+    height: 550px;
+    background: url(./image\ 1.png)no-repeat center/cover;
+}
+
+
+
+.box2 p {
+
+    margin-right: 200px;
+    text-align: start;
+    font-size: 39px;
+}
+
+.odla {
+    margin-top: 100px;
+    padding: 20px;
+    color: aliceblue;
+    width: 100%;
+    height: 80vh;
+    background: url(./indian-american-among-nasas-new-astronauts-all-set-to-conquer-moon-mars\ 1.png)no-repeat center/cover;
+}
+
+.the1 {
+    text-align: start;
+    width: 100px;
+    font-size: 50px;
+}
+
+.the2 {
+    margin: 100px;
+    justify-self: end;
+    align-items: end;
+    font-size: 35px;
+}
+
+
+.the4 {
+    margin-bottom: 400px;
+    display: flex;
+    width: 10px;
+    height: 50px;
+
+}
+
+.Featured-News {
+    width: 100%;
+    height: 800px;
+    background-color: aqua;
+    padding: 20px;
+    background: url(./image\ 1.png) no-repeat center/cover;
+}
+h1{
+    font-size: 50PX;
+}
+.icon {
+    color: aliceblue;
+    width: 250px;
+    height: 60px;
+    font-size: 30px;
+    margin-left: 105px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.Nasa-sets {
+    color: aliceblue;
+    width: 390px;
+    height: 140px;
+    margin-top: 500px;
+    margin-left: 150px;
+}
+
+.Nasa-sets h2 {
+    color: white;
+    font-size: 36px;
+    font-style: oblique;
+    font-weight: 500;
+}
+.stell-nasa{
+    margin-top: 100px;
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    background: url(./Frame\ 5.png)no-repeat center/cover;
+}
+.stell-text{
+    margin-top: 50px;
+    margin-left: 20px;
+    width: 430px    ;
+    height: 50px;
+    color: aliceblue;
+    font-size: 30px;
+}
+.stell-text1{
+    padding: 20px;
+    width: 100px;
+    height: 20px;
+    display: flex;
+    color: aliceblue;
+}
+.stell-text1 p{
+    margin-top: 400px;
+    font-size: 35px;
+}
