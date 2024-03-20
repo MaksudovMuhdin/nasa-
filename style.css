@@ -90,22 +90,12 @@ nav {
 
 /* 2 etpga utish */
 .min {
-    width: 1500px;
+    width: 100%;
     display: flex;
 }
 
 /* html qare esin chqsa */
-.min1 {
-    width: 100;
-    height: 700px;
-    background: url(https://media.cnn.com/api/v1/images/stellar/prod/221208114519-boeing-nasa-sls-rocket-history.jpg?c=original) no-repeat center/cover;
-}
 
-.min p {
-    width: 300px;
-    font-size: 25px;
-    margin: 10px;
-}
 
 .uzun1 p {
     width: 1050px;
@@ -116,7 +106,10 @@ nav {
 }
 
 .aa {
-    width: 100px;
+    margin: 5px;
+    font-size: 30px;
+    width: 400px;
+    height: 40px;
 }
 
 .aa:hover {
@@ -125,23 +118,7 @@ nav {
 }
 
 /* 3 etbi */
-.box1 p {
-    width: 500px;
-    margin: 20px;
-    font-size: 70px;
-    color: rgb(255, 255, 255);
-}
 
-.miny {
-    width: 600px;
-    color: aliceblue;
-    font-size: 15px;
-
-}
-
-.miny .oo {
-    margin: 15px;
-}
 
 .uzun1 img {
     margin: 5px;
@@ -151,17 +128,22 @@ nav {
     border-radius: 100px;
 }
 
-.miny1 {
-    width: 90%;
-    height: 2px;
-    background-color: black;
+
+    
+.min1 {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    background: url(https://media.cnn.com/api/v1/images/stellar/prod/221208114519-boeing-nasa-sls-rocket-history.jpg?c=original) no-repeat center/cover;
 }
 
-.la a:hover {
+.la a {
+    margin: 0 0  100px;
+    width: 100px;
+    height: 40px;
+    background-color: aquamarine;
     font-size: 15px;
-    transition: 10s;
-    color: blue;
-    display: flex;
+    color: rgb(0, 0, 0);
     align-items: start;
     margin: 0 0 0 80px;
 }
@@ -173,29 +155,37 @@ nav {
     text-align: center;
     margin: 0 800px 0 700px;
 }
-
-.box1 {
-    display: flex;
-    padding: 250px;
-    justify-content: start;
-    align-items: start;
+/* 2 etbki  */
+.text-NASA1{
+    color: aliceblue;
+    font-size: 50px;
 }
-
-.nasa1 p {
-    margin-left: -250px;
+.po2{   
+    width: 400px;
+    height: 100px;
+    margin: 150px;
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+    
 }
+.p01{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 250px -650px;
+    width: 550px;
+    height: 40px;
+    font-size: 25px;
+    color: aliceblue;
 
-.miny .oo {
-    display: flex;
 }
-
-.oo Q {
-    width: 100px;
+.butum button{
+    font-size: 40px ;
+    widows: 400px;
     height: 50px;
-    background-color: aliceblue;
+    margin: ;
+    background-color: blue;
 }
-
 .qn {
+    font-family: Georgia, 'Times New Roman', Times, serif;
     margin: 10px 100px;
     display: flex;
     justify-content: start;
@@ -204,7 +194,7 @@ nav {
 }
 
 .box2 {
-    color: aliceblue;
+    color: aliceblue;   
     width: 600px;
     display: flex;
     justify-items: flex-start;
@@ -256,11 +246,12 @@ nav {
 .Featured-News {
     width: 100%;
     height: 800px;
-    background-color: aqua;
     padding: 20px;
     background: url(./image\ 1.png) no-repeat center/cover;
 }
-h1{
+H6{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 70px;
     font-size: 50PX;
 }
 .icon {
