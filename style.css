@@ -101,7 +101,6 @@ nav {
     width: 1050px;
     height: 2px;
     margin: 0px 200px;
-
     background-color: rgb(0, 0, 0);
 }
 
@@ -141,12 +140,12 @@ nav {
     margin: 0 0  100px;
     width: 100px;
     height: 40px;
-    background-color: aquamarine;
-    font-size: 15px;
+    font-size: 35px;
     color: rgb(0, 0, 0);
     align-items: start;
     margin: 0 0 0 80px;
 }
+
 
 .la1 a {
     font-size: 10px;
@@ -177,9 +176,9 @@ nav {
     color: aliceblue;
 
 }
-.butum button{
+.butu button{
     font-size: 40px ;
-    widows: 400px;
+    widows: 200px;
     height: 50px;
     background-color: blue;
 }
