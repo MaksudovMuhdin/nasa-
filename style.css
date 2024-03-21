@@ -156,6 +156,7 @@ nav {
 }
 /* 2 etbki  */
 .text-NASA1{
+
     color: aliceblue;
     font-size: 50px;
 }
@@ -211,25 +212,24 @@ nav {
 }
 
 .odla {
-    margin-top: 100px;
+    margin-top: 60px;
     padding: 20px;
     color: aliceblue;
     width: 100%;
-    height: 80vh;
     background: url(./indian-american-among-nasas-new-astronauts-all-set-to-conquer-moon-mars\ 1.png)no-repeat center/cover;
 }
 
 .the1 {
     text-align: start;
-    width: 100px;
+    width: 300px;
     font-size: 50px;
 }
 
-.the2 {
-    margin: 100px;
-    justify-self: end;
-    align-items: end;
-    font-size: 35px;
+ .odla .the2 {
+    width: 1300px;
+    height: 100px;
+    font-size: 40px;
+    margin-top: 200px;
 }
 
 
@@ -278,7 +278,6 @@ H6{
     font-weight: 500;
 }
 .stell-nasa{
-    margin-top: 100px;
     width: 100%;
     height: 80vh;
     display: flex;
@@ -302,4 +301,33 @@ H6{
 .stell-text1 p{
     margin-top: 400px;
     font-size: 35px;
+}
+.Browes-Image{
+    margin-top: 50px;
+    width: 100%;
+    height:70vh;
+    display: flex;
+    background-color: rgb(180, 180, 180);
+}
+
+.Browes-Image p {
+    margin: 50px;
+    font-size: 20px;
+}
+
+.tody{
+    margin: 5px;
+}
+.imgtext p{
+    font-size: 35px;
+    width: 400px;
+}
+.Studying p{
+
+
+}
+.artika img{
+     margin-left:200px;
+    width: 730px;
+    height: 585px;
 }
