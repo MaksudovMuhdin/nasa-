@@ -131,9 +131,9 @@ nav {
     
 .min1 {
     width: 100%;
-    height: 100vh;
+    height: 105vh;
     display: flex;
-    background: url(https://media.cnn.com/api/v1/images/stellar/prod/221208114519-boeing-nasa-sls-rocket-history.jpg?c=original) no-repeat center/cover;
+    background: url(./221208114519-boeing-nasa-sls-rocket-history.jpg)no-repeat center/cover;
 }
 
 .la a {
@@ -163,14 +163,14 @@ nav {
 .po2{   
     width: 400px;
     height: 100px;
-    margin: 150px;
+    margin: 250px;
     font-size: 50px;
     color: rgb(255, 255, 255);
     
 }
 .p01{
     font-family: 'Times New Roman', Times, serif;
-    margin: 250px -650px;
+    margin: 360px -750px 100px ;
     width: 550px;
     height: 40px;
     font-size: 25px;
@@ -178,11 +178,77 @@ nav {
 
 }
 .butu button{
-    font-size: 40px ;
+    margin-top: 500px;
+    margin-left: 400px;
+    font-size: 30px ;
+    color: aliceblue;
     widows: 200px;
     height: 50px;
-    background-color: blue;
+    background-color: rgb(255, 0, 0);
 }
+.linya1{
+    width: 500px;
+    height: 2px;
+    margin-top: 50px;
+    margin-left: 290px;
+    background-color: rgb(255, 255, 255);
+}
+.linya1 p{
+    padding: 50px;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+.linya1 span{
+    margin-left: 40px;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+}
+
+
+.linya2{
+    width: 450px;
+    height: 2px;
+    margin-left: 100px;
+    margin-top: 600px;
+    background-color: rgb(255, 255, 255);
+}
+.linya2 p{
+    padding: 50px;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+.linya2 span{
+    margin-left: 40px;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+}
+
+
+
+
+.linya{
+    width: 450px;
+    height: 2px;
+    margin-left: 90px;
+    margin-top: 600px;
+    background-color: rgb(255, 255, 255);
+}
+.linya p{
+    padding: 50px;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+.linya span{
+    margin-left: 50px;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+}
+
+
+
+
+
+
 .qn {
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin: 10px 100px;
@@ -281,7 +347,7 @@ H6{
     width: 100%;
     height: 80vh;
     display: flex;
-    background: url(./Frame\ 5.png)no-repeat center/cover;
+    background: url(./block1_cargo_leavingearth.jpeg)no-repeat center/cover;
 }
 .stell-text{
     margin-top: 50px;
@@ -293,7 +359,7 @@ H6{
 }
 .stell-text1{
     padding: 20px;
-    width: 100px;
+    width: 300px;
     height: 20px;
     display: flex;
     color: aliceblue;
@@ -305,7 +371,7 @@ H6{
 .Browes-Image{
     margin-top: 50px;
     width: 100%;
-    height:70vh;
+    height:85vh;
     display: flex;
     background-color: rgb(180, 180, 180);
 }
@@ -319,15 +385,265 @@ H6{
     margin: 5px;
 }
 .imgtext p{
-    font-size: 35px;
+    font-size: 25px;
     width: 400px;
 }
 .Studying p{
-
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
 
 }
 .artika img{
-     margin-left:200px;
-    width: 730px;
-    height: 585px;
+     margin-left:40px;
+    width: 880px;
+    height: 670px;
+}
+/* yengi etab   */
+.OurChanging{
+    margin-top: 50px;
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    background: url(./pia26112orig\ 1.png)no-repeat center/cover;
+} 
+.from .asbni{
+    margin-top:90px;
+    color: rgb(255, 255, 255);
+    
+}
+.from p{
+    margin-top: 50px;
+    margin-left: 50px;
+    width: 600px;
+    font-size: 30px;
+    color:rgb(255, 255, 255);
+}
+
+.from span{
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    padding: 200px;
+}
+
+.NEWSR{
+    display: flex;
+    width: 100%;
+    height: 90vh;
+    margin-top: 50px;
+
+}
+.bening{
+    background: url(./24eaf692191f9c14cabadd18063a48d2.jpg)no-repeat center/cover;
+    width: 35%;
+    height: 85vh; 
+    color: rgb(255, 255, 255);
+}
+ span.bening2 {
+    font-size: 20px;
+    margin-top: 200px;
+}
+.bening1 {
+    margin-top: 390px;
+    font-size: 30px;
+    margin-left: 10px;
+    
+}
+
+.Invites{
+    margin-left: 20px;
+    background: url(./International_Space_Station_viewed_from_STS-128_\(S128-E-009793\).jpg)no-repeat center/cover;
+    width: 30%;
+    height: 85vh; 
+    color: rgb(255, 255, 255);
+
+}
+.Invites1 {
+    margin-left: 20px;
+    margin-top: 390px;
+    font-size: 28px;
+
+}
+
+.STARLINK{
+    margin-left: 20px;
+    background: url(./bill-nelson-nasajpg.webp)no-repeat center/cover;
+    width: 32%;
+    height: 85vh;
+    color: rgb(255, 255, 255);
+
+}
+.STARLINK1{
+    margin-top: 390px;
+    font-size: 28px;
+    margin-left: 80px;
+}
+.Missions{
+    width: 100%;
+    height: 80vh;
+    display: flex;
+}
+.missi1{
+    margin-left: 50px;
+    color: rgb(250, 250, 250);
+    background:url(./jsc2022e046413_orig\ 1.png)no-repeat center/cover;
+    width: 22%;
+    height: 70vh;
+}
+.Humans{
+    color: rgb(250, 250, 250);
+    margin-left: 20px;
+    background: url(./topic-humans-in-space\ 1.png)no-repeat center/cover;
+    width: 22%;
+    height: 70vh;
+}
+.Black{
+    margin-left: 20px;
+    color: rgb(250, 250, 250);
+    width: 22%;
+    height: 70vh;
+    background: url(./ksc-392c-5029_fr-036\ 1.png)no-repeat center/cover;
+}
+.Valueof{
+    margin-left: 20px;
+    color: rgb(250, 250, 250);
+    width: 22%;
+    height: 70vh;
+    background: url(./earth-at-night-north-america-east-coast\ 1.png)no-repeat center/cover;
+}
+.Missions p{
+    margin-left: 100px;
+    margin-top: 350px;
+    font-size: 34px;
+}
+/* ohrogi */
+.National{
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    background-color: black;
+}
+.img1{
+    width: 200px;
+    height: 100px;
+    margin-left: 20px;
+    margin-top: 50px;
+}
+
+.Space{
+    margin-top: 250px;
+    margin-left: -170px;
+    width: 400px;
+    height: 10px;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    list-style: none;
+}
+.grid{
+     margin-top: 200px;
+     margin-left: 170px;
+    color: rgb(255, 255, 255);
+    
+}
+.grid a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+
+}
+.grid li {
+    margin-top: 30px;
+    margin-bottom: -5px;
+}
+
+.kasd{
+    width: 100px;
+    height: 35px;
+    color: brown;
+    margin-left: 54px;
+    border: solid 2px rgb(181, 181, 181);
+}
+.Hme{
+    color: rgb(255, 255, 255);
+    margin-top: 200px;
+    margin-left: 40px;
+}
+.Hme a{
+    text-decoration: none ;
+    color: rgb(255, 255, 255);
+
+}
+.Hme li{
+    margin-top: 33px;
+}
+.Human{
+    color: rgb(255, 255, 255);
+    margin-top: 200px;
+    margin-left: 80px;
+}
+.Human li{
+    margin-top: 33px;
+}
+.Human a{
+    text-decoration: none ;
+    color: rgb(255, 255, 255);
+}
+.Aeronautics{
+    margin-left: 60px;
+    margin-top: 200px;
+    color: rgb(255, 255, 255);
+}
+.Aeronautics a{
+    color: rgb(255, 255, 255);
+}
+.Aeronautics img {
+    margin-top: 20px;
+    width: 50px;
+    border-radius: 25px;
+    color: aliceblue;
+    background-color: rgb(255, 255, 255);
+}
+.explores{
+    width: 440px;
+    height: 200px;
+}
+.explores{
+    margin-top: 350px;
+    margin-left: -410px;
+}
+.explores p{
+    color: rgba(108, 106, 106, 0.985);
+}
+.explores i{
+    margin-top: 50px;
+    color: rgb(255, 255, 255);
+}
+.explores  b {
+    color: rgb(255, 255, 255);
+}
+ .amm {
+    margin-left: 20px;
+    margin-top: -220px;
+    width: 1360px;
+    height: 2px;
+    background-color: rgb(255, 255, 255);
+}
+.Sitemap p{
+    color: brown;
+}
+.FOIA{
+    width: 100%;
+    height: 200px;
+    display: grid;
+    color:aliceblue;
+}
+.FOIA a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.FOIA p{
+    margin:20px ;
+    margin-left: 250px;
+}
+.FOIA p:hover{
+    transition: 3s;
+    color: rgba(255, 255, 93, 0.897);
 }
